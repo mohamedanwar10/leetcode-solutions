@@ -6,22 +6,22 @@ This repository contains my SQL solutions for LeetCode problems.
 
 ### ✅ 1. Employee Bonus
 - **Problem Link:** [LeetCode 577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)
-- **Solution:** [employee_bonus.sql](https://github.com/mohamedanwar10/leetcode-solutions/blob/main/SQL/employee_bonus.sql)
 
 ### ✅ 2. Rising Temperature
 - **Problem Link:** [LeetCode 197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
-- **Solution:** [rising_temperature.sql](https://github.com/mohamedanwar10/leetcode-solutions/blob/main/SQL/rising_temperature.sql)
 
 ### ✅ 3. Average Time of Process per Machine
 - **Problem Link:** [LeetCode 1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)
-- **Solution:** [average-time-of-process-per-machine.sql](https://github.com/mohamedanwar10/leetcode-solutions/blob/main/SQL/average-time-of-process-per-machine.sql)
 
----
+### ✅ 4. Confirmation Rate
+- **Problem Link:** [LeetCode 1517. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50)
 
-### **How to Use**
-- Each solution is written in MySQL.
-- Click on the problem link to view the question.
-- Click on the solution link to see the SQL query.
+### ✅ 5. Managers with at Least 5 Direct Reports
+- **Problem Link:** [LeetCode 570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)
+
+### ✅ 6. Students and Examinations
+- **Problem Link:** [LeetCode 1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
+
 
 ---
 
