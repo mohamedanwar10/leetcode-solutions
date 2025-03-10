@@ -22,6 +22,17 @@ This repository contains my SQL solutions for LeetCode problems.
 ### ✅ 6. Students and Examinations
 - **Problem Link:** [LeetCode 1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
 
+### ✅ 7. Not Boring Movies
+- **Problem Link:** [LeetCode 620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/?envType=study-plan-v2&envId=top-sql-50)
+
+### ✅ 8. Project Employees I
+- **Problem Link:** [LeetCode 1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)
+
+### ✅ 9. Average Selling Price
+- **Problem Link:** [LeetCode 1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)
+
+### ✅ 10. Monthly Transactions I
+- **Problem Link:** [LeetCode 1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50)
 
 ---
 
