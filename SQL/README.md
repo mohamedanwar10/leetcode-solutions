@@ -34,6 +34,9 @@ This repository contains my SQL solutions for LeetCode problems.
 ### ✅ 10. Monthly Transactions I
 - **Problem Link:** [LeetCode 1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50)
 
+### ✅ 11. Immediate Food Delivery II
+- **Problem Link:** [LeetCode 1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/submissions/1624494065/?envType=study-plan-v2&envId=top-sql-50)
+
 ---
 
 🚀 **Stay tuned for more SQL solutions!**
