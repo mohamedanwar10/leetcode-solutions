@@ -1,7 +1,3 @@
-# LeetCode SQL Solutions
-
-This repository contains my SQL solutions for LeetCode problems.
-
 ## 📌 SQL Problems Solved
 
 ✅ **1. Employee Bonus**  
@@ -52,6 +48,8 @@ This repository contains my SQL solutions for LeetCode problems.
 ✅ **16. Product Sales Analysis III**  
 [LeetCode 1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/?envType=study-plan-v2&envId=top-sql-50)
 
----
+✅ **17. Biggest Single Number**  
+[LeetCode 619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50)
 
-🚀 Stay tuned for more SQL solutions!
+✅ **18. Find Followers Count**  
+[LeetCode 1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50)
