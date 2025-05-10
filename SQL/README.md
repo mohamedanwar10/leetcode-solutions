@@ -1,55 +1,66 @@
-## 📌 SQL Problems Solved
+# 📌 SQL Problems Solved on LeetCode
 
-✅ **1. Employee Bonus**  
-[LeetCode 577. Employee Bonus](https://leetcode.com/problems/employee-bonus)
+Here is a curated list of SQL problems I've solved from LeetCode's Top SQL questions.  
+⭐ Each problem is linked for quick access and reference.
 
-✅ **2. Rising Temperature**  
-[LeetCode 197. Rising Temperature](https://leetcode.com/problems/rising-temperature)
+---
 
-✅ **3. Average Time of Process per Machine**  
-[LeetCode 1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)
+### ✅ 1. [Employee Bonus](https://leetcode.com/problems/employee-bonus)  
+🔹 LeetCode 577
 
-✅ **4. Confirmation Rate**  
-[LeetCode 1517. Confirmation Rate](https://leetcode.com/problems/confirmation-rate)
+### ✅ 2. [Rising Temperature](https://leetcode.com/problems/rising-temperature)  
+🔹 LeetCode 197
 
-✅ **5. Managers with at Least 5 Direct Reports**  
-[LeetCode 570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)
+### ✅ 3. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)  
+🔹 LeetCode 1661
 
-✅ **6. Students and Examinations**  
-[LeetCode 1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations)
+### ✅ 4. [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)  
+🔹 LeetCode 1517
 
-✅ **7. Not Boring Movies**  
-[LeetCode 620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies)
+### ✅ 5. [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)  
+🔹 LeetCode 570
 
-✅ **8. Project Employees I**  
-[LeetCode 1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
+### ✅ 6. [Students and Examinations](https://leetcode.com/problems/students-and-examinations)  
+🔹 LeetCode 1280
 
-✅ **9. Average Selling Price**  
-[LeetCode 1251. Average Selling Price](https://leetcode.com/problems/average-selling-price)
+### ✅ 7. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies)  
+🔹 LeetCode 620
 
-✅ **10. Monthly Transactions I**  
-[LeetCode 1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)
+### ✅ 8. [Project Employees I](https://leetcode.com/problems/project-employees-i)  
+🔹 LeetCode 1075
 
-✅ **11. Immediate Food Delivery II**  
-[LeetCode 1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)
+### ✅ 9. [Average Selling Price](https://leetcode.com/problems/average-selling-price)  
+🔹 LeetCode 1251
 
-✅ **12. Number of Unique Subjects Taught by Each Teacher**  
-[LeetCode 2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)
+### ✅ 10. [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)  
+🔹 LeetCode 1193
 
-✅ **13. Game Play Analysis IV**  
-[LeetCode 550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)
+### ✅ 11. [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)  
+🔹 LeetCode 1174
 
-✅ **14. User Activity for the Past 30 Days I**  
-[LeetCode 1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)
+### ✅ 12. [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)  
+🔹 LeetCode 2356
 
-✅ **15. Classes More Than 5 Students**  
-[LeetCode 596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)
+### ✅ 13. [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)  
+🔹 LeetCode 550
 
-✅ **16. Product Sales Analysis III**  
-[LeetCode 1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/?envType=study-plan-v2&envId=top-sql-50)
+### ✅ 14. [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1141
 
-✅ **17. Biggest Single Number**  
-[LeetCode 619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50)
+### ✅ 15. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 596
 
-✅ **18. Find Followers Count**  
-[LeetCode 1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50)
+### ✅ 16. [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1070
+
+### ✅ 17. [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 619
+
+### ✅ 18. [Find Followers Count](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1729
+
+### ✅ 19. [Weather Observation Station 3](https://leetcode.com/problems/weather-observation-station-3)  
+🔹 LeetCode 585
+
+### ✅ 20. [Weather Observation Station 5](https://leetcode.com/problems/weather-observation-station-5)  
+🔹 LeetCode 597
