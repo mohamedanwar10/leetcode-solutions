@@ -59,8 +59,8 @@ Here is a curated list of SQL problems I've solved from LeetCode's Top SQL quest
 ### ✅ 18. [Find Followers Count](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50)  
 🔹 LeetCode 1729
 
-### ✅ 19. [Weather Observation Station 3](https://leetcode.com/problems/weather-observation-station-3)  
-🔹 LeetCode 585
+### ✅ 19. [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1731
 
-### ✅ 20. [Weather Observation Station 5](https://leetcode.com/problems/weather-observation-station-5)  
-🔹 LeetCode 597
+### ✅ 20. [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1079
