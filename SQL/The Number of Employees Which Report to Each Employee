@@ -1,0 +1,8 @@
+-- Write your PostgreSQL query statement below
+select a.employee_id,a.name,count(*) as reports_count, round(avg(b.age)) as average_age
+from employees a,employees b
+where b.reports_to = a.employee_id and a.employee_id<>b.employee_id
+group by 1,2
+order by a.employee_id ;
+
+
