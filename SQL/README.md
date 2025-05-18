@@ -64,3 +64,9 @@ Here is a curated list of SQL problems I've solved from LeetCode's Top SQL quest
 
 ### ✅ 20. [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50)  
 🔹 LeetCode 1079
+
+### ✅ 21. [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1809
+
+### ✅ 22. [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/submissions/1637398745/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 1923
