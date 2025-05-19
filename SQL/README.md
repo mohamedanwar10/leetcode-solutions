@@ -70,3 +70,6 @@ Here is a curated list of SQL problems I've solved from LeetCode's Top SQL quest
 
 ### ✅ 22. [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/submissions/1637398745/?envType=study-plan-v2&envId=top-sql-50)  
 🔹 LeetCode 1923
+
+### ✅ 23. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)  
+🔹 LeetCode 180
