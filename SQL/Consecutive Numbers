@@ -1,0 +1,9 @@
+-- --Write your PostgreSQL query statement below
+select distinct num as ConsecutiveNums
+from (
+    select *,
+        LEAD(num, 1) OVER (ORDER BY id) AS next_num,
+        LEAD(num, 2) OVER (ORDER BY id) AS next_next_num
+from logs 
+) 
+where num = next_num and num =next_next_num ;    
